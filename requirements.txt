@@ -1,2 +1,2 @@
 streamlit
-geopy
+geopy==2.2.0
